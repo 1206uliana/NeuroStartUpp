@@ -1,7 +1,5 @@
  # NeuroStartUp
 
- ![NeuroStartUp logo](image.png)
-
  ## NeuroStartUp
 - Technology matters 
 
@@ -24,3 +22,4 @@ select {
     font-family: "Aeroset", Arial, sans-serif;  
     color: red;  
 }
+```
